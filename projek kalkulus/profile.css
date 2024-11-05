@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Team Member</title>
+    <link rel="stylesheet" href="profile.css">
+</head>
+<body>
+  <nav>
+    <div class="logo">Fungsi kuadrat</div>
+    <ul>
+        <li><a href=""
+          class="menu">Home</a>
+        </li>
+        <li><a href="calculator.html"
+          class="menu">Calculator</a>
+        </li>
+        <li> <a href="profil.html"
+          class="menu">Profile</a>
+        </li>
+    </ul>
+</nav>
+    <div class="wrapper">
+        <div class="title">
+            <h2>ANGGOTA</h2>
+        </div>
+        <div class="card_Container">
+            <div class="card">
+                <div class="imbBx">
+                    <img src="https://media.discordapp.net/attachments/1301050482155978799/1303350264966942850/4x6_max_300kb.jpg?ex=672b6f06&is=672a1d86&hm=9731ef23b7554eb292c0d45c66919294de3f67cf9d622c7ccd99969ed92627c3&=&format=webp&width=433&height=662" alt="">
+                </div>
+                <div class="content">
+                    <div class="contentBx">
+                        <h3>ADITYA IHSAN MAULANA<br><span>UI/UX Design</span></h3>                       
+                    </div>
+                    <ul class="sci">
+                        <li style="--i: 1">
+                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                        </li>
+                        <li style="--i: 2">
+                            <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card">
+                <div class="imbBx">
+                    <img src="https://media.discordapp.net/attachments/1301050482155978799/1303346739629133844/WhatsApp_Image_2024-06-20_at_10.16.03.jpeg?ex=672b6bbd&is=672a1a3d&hm=03bc3f705007c1f7479b3c57faf90cdfda7571284fba9289f916832021caa165&=&format=webp&width=433&height=662" alt="">
+                </div>
+                <div class="content">
+                    <div class="contentBx">
+                        <h3>YASRAF SYIFA MAULANA<br><span>Back End Developer</span></h3>                       
+                    </div>
+                    <ul class="sci">
+                        <li style="--i: 1">
+                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                        </li>
+                        <li style="--i: 2">
+                            <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card">
+                <div class="imbBx">
+                    <img src="WhatsApp Image 2024-07-10 at 23.46.53_e71e418f.jpg" alt="">
+                </div>
+                <div class="content">
+                    <div class="contentBx">
+                        <h3>HAFIDZ JANUAR FATURAHMAN<br><span>Back End Developer</span></h3>                       
+                    </div>
+                    <ul class="sci">
+                        <li style="--i: 1">
+                            <a href="https://www.instagram.com/hfdjnr06_/"><i class="fa-brands fa-instagram"></i></a>
+                        </li>
+                        <li style="--i: 2">
+                            <a href="https://api.whatsapp.com/send?phone=6285215453485"><i class="fa-brands fa-whatsapp"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card">
+                <div class="imbBx">
+                    <img src="https://media.discordapp.net/attachments/1301050482155978799/1303346565980749915/BIMANTARA.jpg?ex=672b6b94&is=672a1a14&hm=ff748e3734bb7420bdf6ce83c640843501775104d7e477ddd09fd48674cb710c&=&format=webp&width=441&height=662" alt="">
+                </div>
+                <div class="content">
+                    <div class="contentBx">
+                        <h3>BIMANTARA PRAKASA J<br><span>Analisis & Dokumentasi</span></h3>                       
+                    </div>
+                    <ul class="sci">
+                        <li style="--i: 1">
+                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                        </li>
+                        <li style="--i: 2">
+                            <a href="#"><i class="fa-brands fa-whatsapp"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
